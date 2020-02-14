@@ -1,0 +1,17 @@
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\bin\Debug\netcoreapp3.0\BIDStatistics.exe
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\bin\Debug\netcoreapp3.0\BIDStatistics.deps.json
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\bin\Debug\netcoreapp3.0\BIDStatistics.runtimeconfig.json
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\bin\Debug\netcoreapp3.0\BIDStatistics.runtimeconfig.dev.json
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\bin\Debug\netcoreapp3.0\BIDStatistics.dll
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\bin\Debug\netcoreapp3.0\BIDStatistics.pdb
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\obj\Debug\netcoreapp3.0\staticwebassets\BIDStatistics.StaticWebAssets.Manifest.cache
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\obj\Debug\netcoreapp3.0\staticwebassets\BIDStatistics.StaticWebAssets.xml
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\obj\Debug\netcoreapp3.0\BIDStatistics.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\obj\Debug\netcoreapp3.0\BIDStatistics.AssemblyInfoInputs.cache
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\obj\Debug\netcoreapp3.0\BIDStatistics.AssemblyInfo.cs
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\obj\Debug\netcoreapp3.0\BIDStatistics.RazorTargetAssemblyInfo.cache
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\obj\Debug\netcoreapp3.0\BIDStatistics.dll
+C:\Projects\BID Conversion\Websites\BIDStatistic\BIDStatistic\obj\Debug\netcoreapp3.0\BIDStatistics.pdb
