@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\BID Conversion\\Websites\\BIDStatisticsAPI\\BIDStatisticsAPI\\BIDStatisticsAPI.csproj": {}
+    "C:\\Users\\vadim\\Source\\Repos\\VGV_Rep\\BIDStatisticsAPI\\BIDStatisticsAPI\\BIDStatisticsAPI.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\BID Conversion\\Websites\\BIDStatisticsAPI\\BIDStatisticsAPI\\BIDStatisticsAPI.csproj": {
+    "C:\\Users\\vadim\\Source\\Repos\\VGV_Rep\\BIDStatisticsAPI\\BIDStatisticsAPI\\BIDStatisticsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BID Conversion\\Websites\\BIDStatisticsAPI\\BIDStatisticsAPI\\BIDStatisticsAPI.csproj",
+        "projectUniqueName": "C:\\Users\\vadim\\Source\\Repos\\VGV_Rep\\BIDStatisticsAPI\\BIDStatisticsAPI\\BIDStatisticsAPI.csproj",
         "projectName": "BIDStatisticsAPI",
-        "projectPath": "C:\\Projects\\BID Conversion\\Websites\\BIDStatisticsAPI\\BIDStatisticsAPI\\BIDStatisticsAPI.csproj",
-        "packagesPath": "C:\\Users\\Vadim.Vovk\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BID Conversion\\Websites\\BIDStatisticsAPI\\BIDStatisticsAPI\\obj\\",
+        "projectPath": "C:\\Users\\vadim\\Source\\Repos\\VGV_Rep\\BIDStatisticsAPI\\BIDStatisticsAPI\\BIDStatisticsAPI.csproj",
+        "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vadim\\Source\\Repos\\VGV_Rep\\BIDStatisticsAPI\\BIDStatisticsAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vadim.Vovk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://bestapps/nuget/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
