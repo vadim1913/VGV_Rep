@@ -12,3 +12,16 @@ C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\
 C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.dll
 C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.pdb
 C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.csprojAssemblyReference.cache
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.RazorAssemblyInfo.cache
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.RazorAssemblyInfo.cs
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.AssemblyInfoInputs.cache
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.AssemblyInfo.cs
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.dll
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.pdb
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\bin\Debug\netcoreapp2.1\BIDStatisticsAPI.deps.json
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\bin\Debug\netcoreapp2.1\BIDStatisticsAPI.runtimeconfig.json
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\bin\Debug\netcoreapp2.1\BIDStatisticsAPI.runtimeconfig.dev.json
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\bin\Debug\netcoreapp2.1\BIDStatisticsAPI.dll
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\bin\Debug\netcoreapp2.1\BIDStatisticsAPI.pdb
+C:\Users\vadim\Source\Repos\VGV_Rep\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.RazorTargetAssemblyInfo.cache
