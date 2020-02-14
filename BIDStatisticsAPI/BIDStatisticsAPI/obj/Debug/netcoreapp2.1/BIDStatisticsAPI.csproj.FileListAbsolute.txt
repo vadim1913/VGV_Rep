@@ -1,0 +1,14 @@
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\bin\Debug\netcoreapp2.1\BIDStatisticsAPI.deps.json
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\bin\Debug\netcoreapp2.1\BIDStatisticsAPI.runtimeconfig.json
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\bin\Debug\netcoreapp2.1\BIDStatisticsAPI.runtimeconfig.dev.json
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\bin\Debug\netcoreapp2.1\BIDStatisticsAPI.dll
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\bin\Debug\netcoreapp2.1\BIDStatisticsAPI.pdb
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.RazorAssemblyInfo.cache
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.RazorAssemblyInfo.cs
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.AssemblyInfoInputs.cache
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.AssemblyInfo.cs
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.RazorTargetAssemblyInfo.cache
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.dll
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.pdb
+C:\Projects\BID Conversion\Websites\BIDStatisticsAPI\BIDStatisticsAPI\obj\Debug\netcoreapp2.1\BIDStatisticsAPI.csprojAssemblyReference.cache
