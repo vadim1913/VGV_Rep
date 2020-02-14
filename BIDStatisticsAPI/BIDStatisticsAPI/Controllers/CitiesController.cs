@@ -12,23 +12,25 @@ namespace BIDStatisticsAPI.Controllers
     public class CitiesController : ControllerBase
     {
         [HttpGet]
-
         public JsonResult GetCities()
         {
             return new JsonResult(CitiesDataStore.Current.Cities);
         }
+             
 
         [HttpGet("{id}")]
-
         public IActionResult GetCity(int id)
         {
-            //return new JsonResult(CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == id));
+            // return new JsonResult(CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == id));  
 
-            //find city
             var cityToReturn = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == id);
 
             if (cityToReturn == null)
+            {
+                return NotFound();
+            }
 
+            return Ok(cityToReturn);
         }
     }
 }
